@@ -2,7 +2,6 @@
 //  TostView.swift
 //
 //  Created by ckjdev on 2016. 6. 23..
-//  Copyright © 2016년 Yes24. All rights reserved.
 //
 
 import Foundation
